@@ -1,0 +1,44 @@
+*{
+  font-family: Verdana;
+}
+#body1{
+  background-color: black;
+  text-align: center;
+}
+h1{
+  font-family: Verdana;
+  font-size: 50px;
+  color: white;
+}
+h2{
+  font-family: Verdana;
+  color: white;
+  font-size: 42px;
+}
+.download{
+  color: aquamarine;
+  font-size: 16px;
+}
+a:link{
+  color: aquamarine;
+}
+a:visited{
+  color: aquamarine;
+}
+a:hover{
+  color: aquamarine;
+}
+a:active{
+  color: aquamarine;
+}
+p{
+  color: gray;
+}
+#trademark{
+  text-align: right;
+  font-size: 21px;
+}
+.paragr{
+  font-family: Verdana;
+  font-size: 21px;
+}
